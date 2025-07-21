@@ -215,6 +215,7 @@ Regional Budget Strategy (Based on CPA & ROAS):
 
 ## 📷 Dashboard Preview
 
+[here](https://github.com/danielregar/Coffee-Marketing-Campaign/blob/main/Coffee%20Marketing%20-%20Dashboard.pdf)
 
 ---
 
