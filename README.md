@@ -1,5 +1,7 @@
 # Coffee Marketing Campaign
 
+![Marketing Analysis](https://github.com/user-attachments/assets/01d794a4-05b5-47f7-97f7-4801cfb23fba)
+
 ---
 # 📊 Marketing Campaign Analysis (2022–2024)
 
